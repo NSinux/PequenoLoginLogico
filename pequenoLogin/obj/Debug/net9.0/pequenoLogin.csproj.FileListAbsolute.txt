@@ -1,0 +1,14 @@
+C:\c#\pequenoLogin\bin\Debug\net9.0\pequenoLogin.exe
+C:\c#\pequenoLogin\bin\Debug\net9.0\pequenoLogin.deps.json
+C:\c#\pequenoLogin\bin\Debug\net9.0\pequenoLogin.runtimeconfig.json
+C:\c#\pequenoLogin\bin\Debug\net9.0\pequenoLogin.dll
+C:\c#\pequenoLogin\bin\Debug\net9.0\pequenoLogin.pdb
+C:\c#\pequenoLogin\obj\Debug\net9.0\pequenoLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\pequenoLogin\obj\Debug\net9.0\pequenoLogin.AssemblyInfoInputs.cache
+C:\c#\pequenoLogin\obj\Debug\net9.0\pequenoLogin.AssemblyInfo.cs
+C:\c#\pequenoLogin\obj\Debug\net9.0\pequenoLogin.csproj.CoreCompileInputs.cache
+C:\c#\pequenoLogin\obj\Debug\net9.0\pequenoLogin.dll
+C:\c#\pequenoLogin\obj\Debug\net9.0\refint\pequenoLogin.dll
+C:\c#\pequenoLogin\obj\Debug\net9.0\pequenoLogin.pdb
+C:\c#\pequenoLogin\obj\Debug\net9.0\pequenoLogin.genruntimeconfig.cache
+C:\c#\pequenoLogin\obj\Debug\net9.0\ref\pequenoLogin.dll
